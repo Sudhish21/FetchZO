@@ -8,7 +8,6 @@ In this paper, FetchZo real-time application is developed for the shopping purpo
 <br>
 
 **Citation**
-
 <p align = "justify">
 Subramaniam, Sudhish & Subramaniam, Subha. (2021). FetchZo: Real-Time Mobile Application for Shopping in COVID-19 Pandemic Situation. 10.1007/978-981-15-8677-4_17. 
 </p>
